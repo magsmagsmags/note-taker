@@ -1,6 +1,3 @@
-///////////////////////////////////////////////
-// required variables
-///////////////////////////////////////////////
 const express = require("express");
 const fs = require("fs");
 const apiR = require("./routes/apiR");
@@ -13,10 +10,7 @@ app.use(express.urlencoded({
 app.use(express.json());
 app.use(express.static("public"));
 app.use("/", htmlR);
-// app.use("/api", apiR);
+app.use("/api", apiR);
 app.listen(PORT, function () {
     console.log("App listening on PORT: " + PORT);
 });
-
-
-///////////////////////////////////////////////
