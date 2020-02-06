@@ -1,6 +1,6 @@
 # Note Taker Application
 *  https://github.com/magsmagsmags/note-taker.git
- * https://magsmagsmags.github.io/note-taker/
+ * https://magsmagsmags-note-taker.herokuapp.com/
 
 
 
