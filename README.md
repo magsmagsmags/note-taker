@@ -22,6 +22,8 @@ For users that need to keep track of a lot of information, it's easy to forget o
 
 ## Screenshots
 
+![Screenshot](/assets/browser-screenshot.gif)
+
 ![Screenshot](/assets/screenshot1.png)
 ![Screenshot](/assets/screenshot2.png)
 ![Screenshot](/assets/screenshot3.png)
