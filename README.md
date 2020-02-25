@@ -3,7 +3,7 @@
 * https://magsmagsmags-note-taker.herokuapp.com/
 
 
-![Screenshot](/assets/browser-screenshot.gif)
+![Screenshot](/public/assets/browser-screenshot.gif)
 
 ## User Story 
 ```
