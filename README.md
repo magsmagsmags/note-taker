@@ -1,8 +1,9 @@
 # Note Taker Application
-*  https://github.com/magsmagsmags/note-taker.git
- * https://magsmagsmags-note-taker.herokuapp.com/
+* https://github.com/magsmagsmags/note-taker.git
+* https://magsmagsmags-note-taker.herokuapp.com/
 
 
+![Screenshot](/assets/browser-screenshot.gif)
 
 ## User Story 
 ```
@@ -16,21 +17,18 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Application Objective
 
-
 For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
 
 
-## Screenshots
+## Screenshots of the Application
 
-![Screenshot](/assets/browser-screenshot.gif)
-
-![Screenshot](/assets/screenshot1.png)
-![Screenshot](/assets/screenshot2.png)
-![Screenshot](/assets/screenshot3.png)
-![Screenshot](/assets/screenshot4.png)
+![Screenshot](/public/assets/screenshot1.png)
+![Screenshot](/public/assets/screenshot2.png)
+![Screenshot](/public/assets/screenshot3.png)
+![Screenshot](/public/assets/screenshot4.png)
 
 
-## Minimum Requirements
+## Applicatoin Functionality
 
 Application should allow users to create and save notes.
 

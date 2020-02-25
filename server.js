@@ -4,7 +4,7 @@
 const express = require("express");
 const apiR = require("./routes/apiR");
 const htmlR = require("./routes/htmlR");
-// const fs = require("fs");
+const fs = require("fs");
 const app = express();
 
 //////////////////////////////////////////////////////////////////
