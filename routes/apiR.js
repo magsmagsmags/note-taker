@@ -2,7 +2,7 @@
 // dependencies
 //////////////////////////////////////////////////////////////////
 const router = require("express").Router();
-const store = require("../db/store");
+const store = require("../store");
 const fs = require("fs");
 const db = require("../db/db.json");
 

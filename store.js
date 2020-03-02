@@ -12,7 +12,7 @@ class Store {
     constructor() {
         this.lastId = 0;
 
-        const data = fs.readFileSync("../db/db.json", { encoding: "utf8" });
+        const data = fs.readFileSync("./db/db.json", { encoding: "utf8" });
         if (data.length > 0) {
             let currentNotes = JSON.parse(data);
             for (let i = 0; i < currentNotes.length; i++) {
